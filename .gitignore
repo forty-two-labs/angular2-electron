@@ -8,3 +8,5 @@ app/app.js.map
 
 app/pages/**.js
 app/pages/**.js.map
+
+releases/**

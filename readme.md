@@ -17,6 +17,9 @@ npm run watch
 
 # Start the Electron app
 npm run electron
+
+# Package the Electron app (distribution name is in package.json)
+npm run package
 ```
 
 ## Important Snippets
