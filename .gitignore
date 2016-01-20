@@ -5,3 +5,6 @@ npm-debug.log
 
 app/app.js
 app/app.js.map
+
+app/pages/**.js
+app/pages/**.js.map
