@@ -1,4 +1,4 @@
-![Fork from angular2 electron repo](https://github.com/auth0/angular2-electron)
+[Fork from angular2 electron repo](https://github.com/auth0/angular2-electron)
 
 # Angular 2 + Electron Sample
 
